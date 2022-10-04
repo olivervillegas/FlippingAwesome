@@ -7,4 +7,3 @@ p = P("Clean_CLS5Mi/NEW_CUMUL.csv")
 print(p.process())
 
 print(len(p))
-
